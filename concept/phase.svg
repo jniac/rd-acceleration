@@ -1,81 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1080 1080" enable-background="new 0 0 1080 1080" xml:space="preserve">
+	 viewBox="0 0 1120 1120" enable-background="new 0 0 1120 1120" xml:space="preserve">
 <g>
-	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="169.5" y1="155" x2="169.5" y2="915"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="189.5" y1="175" x2="189.5" y2="935"/>
 </g>
 <g>
-	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="882.5" y1="915.5" x2="130" y2="915.5"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="902.5" y1="935.5" x2="150" y2="935.5"/>
 </g>
-<rect x="169.5" y="826.5" fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" width="395" height="89"/>
-<rect x="564.5" y="739.5" fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" width="318" height="176"/>
-<polygon fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" points="564.5,352.5 169.5,826.5 564.5,826.5 "/>
-<polygon fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" points="882.5,739.5 564.5,739.5 564.5,352.5 "/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6,12" x1="169.5" y1="352.5" x2="564.5" y2="352.5"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2,4" x1="608" y1="352.5" x2="695.5" y2="352.5"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" stroke-dasharray="6,12" x1="564.5" y1="492" x2="883" y2="492"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" stroke-dasharray="2,4" x1="747.9" y1="301.9" x2="883" y2="284.9"/>
-<line fill="none" x1="481.2" y1="591" x2="647.1" y2="391"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" stroke-dasharray="2,4" x1="170.1" y1="915.5" x2="305.2" y2="905.6"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="882.5" y1="915.5" x2="882.5" y2="154.5"/>
-<text transform="matrix(1 0 0 1 106.3228 833.9785)" font-family="'RobotoMono-Regular'" font-size="24px">v0</text>
-<text transform="matrix(1 0 0 1 138.4341 961.9785)" font-family="'RobotoMono-Italic'" font-size="18px">t0(=0)</text>
+<rect x="189.5" y="846.5" fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" width="395" height="89"/>
+<rect x="584.5" y="759.5" fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" width="318" height="176"/>
+<polygon fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" points="584.5,372.5 189.5,846.5 584.5,846.5 "/>
+<polygon fill="#F2F2F2" stroke="#000000" stroke-miterlimit="10" points="902.5,759.5 584.5,759.5 584.5,372.5 "/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="6,12" x1="189.5" y1="372.5" x2="584.5" y2="372.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="2,4" x1="628" y1="372.5" x2="715.5" y2="372.5"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" stroke-dasharray="6,12" x1="584.5" y1="512" x2="903" y2="512"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" stroke-dasharray="2,4" x1="767.9" y1="321.9" x2="903" y2="304.9"/>
+<line fill="none" x1="501.2" y1="611" x2="667.1" y2="411"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" stroke-dasharray="2,4" x1="190.1" y1="935.5" x2="325.2" y2="925.6"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="902.5" y1="935.5" x2="902.5" y2="174.5"/>
+<text transform="matrix(1 0 0 1 126.3228 853.9785)" font-family="'RobotoMono-Regular'" font-size="24px">v0</text>
+<text transform="matrix(1 0 0 1 158.4341 981.9785)" font-family="'RobotoMono-Italic'" font-size="18px">t0(=0)</text>
 <g>
-	<text transform="matrix(1 0 0 1 932.0992 707.7501)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="18px">d0?</text>
+	<text transform="matrix(1 0 0 1 952.0992 727.7501)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="18px">d0?</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 932.0992 390.8676)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="18px">d1?</text>
+	<text transform="matrix(1 0 0 1 952.0992 410.8676)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="18px">d1?</text>
 </g>
-<text transform="matrix(1 0 0 1 537.7163 961.9785)" font-family="'RobotoMono-Italic'" font-size="18px">tmax?</text>
-<text transform="matrix(1 0 0 1 868.2808 961.9785)" font-family="'RobotoMono-Italic'" font-size="18px">t1?</text>
-<text transform="matrix(1 0 0 1 106.3228 743.9785)" font-family="'RobotoMono-Regular'" font-size="24px">v1</text>
+<text transform="matrix(1 0 0 1 557.7163 981.9785)" font-family="'RobotoMono-Italic'" font-size="18px">tmax?</text>
+<text transform="matrix(1 0 0 1 888.2808 981.9785)" font-family="'RobotoMono-Italic'" font-size="18px">t1?</text>
+<text transform="matrix(1 0 0 1 126.3228 763.9785)" font-family="'RobotoMono-Regular'" font-size="24px">v1</text>
 <g>
 	<g>
-		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="564" y1="739" x2="561" y2="739"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="584" y1="759" x2="581" y2="759"/>
 		
-			<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5.9846,11.9692" x1="549" y1="739" x2="178" y2="739"/>
-		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="172" y1="739" x2="169" y2="739"/>
+			<line fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="5.9846,11.9692" x1="569" y1="759" x2="198" y2="759"/>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="192" y1="759" x2="189" y2="759"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 63.1157 356.9785)" font-family="'RobotoMono-Regular'" font-size="24px">vmax?</text>
-<text transform="matrix(1 0 0 1 921.1274 290.8967)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="24px">p1</text>
-<text transform="matrix(1 0 0 1 954.3749 288.8967)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="14px">(=distance)</text>
-<text transform="matrix(1 0 0 1 921.1274 497.4785)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="24px">pvmax?</text>
-<text transform="matrix(1 0 0 1 919.6766 921.9785)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="24px">p0(=0)</text>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="169.5" y1="923.5" x2="169.5" y2="938.5"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="907.7" y1="915.5" x2="892.7" y2="915.5"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="907.7" y1="492" x2="892.7" y2="492"/>
-<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="907.7" y1="284.4" x2="892.7" y2="284.4"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="159.8" y1="739.4" x2="144.8" y2="739.4"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="159.8" y1="352.5" x2="144.8" y2="352.5"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="564.5" y1="924" x2="564.5" y2="939"/>
-<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="882.5" y1="924" x2="882.5" y2="939"/>
+<text transform="matrix(1 0 0 1 83.1157 376.9785)" font-family="'RobotoMono-Regular'" font-size="24px">vmax?</text>
+<text transform="matrix(1 0 0 1 941.1274 310.8967)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="24px">p1</text>
+<text transform="matrix(1 0 0 1 974.3749 308.8967)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="14px">(=distance)</text>
+<text transform="matrix(1 0 0 1 941.1274 517.4785)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="24px">pvmax?</text>
+<text transform="matrix(1 0 0 1 939.6766 941.9785)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="24px">p0(=0)</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="189.5" y1="943.5" x2="189.5" y2="958.5"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="927.7" y1="935.5" x2="912.7" y2="935.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1071.6" y1="935.5" x2="1036.6" y2="935.5"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="927.7" y1="512" x2="912.7" y2="512"/>
+<line fill="none" stroke="#FF0000" stroke-miterlimit="10" x1="927.7" y1="304.4" x2="912.7" y2="304.4"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="179.8" y1="759.4" x2="164.8" y2="759.4"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="179.8" y1="372.5" x2="164.8" y2="372.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="584.5" y1="944" x2="584.5" y2="959"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="902.5" y1="944" x2="902.5" y2="959"/>
 <g>
-	<text transform="matrix(1 0 0 1 916.8767 1164.8318)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="18px">p1 = v0 * dt0 + (a0 * dt0 * dt0) / 2 + v1 * dt1 + (-a1 * dt1 * dt1) / 2</text>
+	<text transform="matrix(1 0 0 1 956.8767 1184.8318)" fill="#FF0000" font-family="'RobotoMono-Regular'" font-size="18px">p1 = v0 * dt0 + (a0 * dt0 * dt0) / 2 + v1 * dt1 + (-a1 * dt1 * dt1) / 2</text>
 </g>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M556.2,925.8c0,21.4-187.9-8.3-187.9,25.7c0-34-187.9-4.2-187.9-25.7"
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M576.2,945.8c0,21.4-187.9-8.3-187.9,25.7c0-34-187.9-4.2-187.9-25.7"
 	/>
-<path fill="none" stroke="#FF0000" stroke-miterlimit="10" d="M894.8,498.8c21.4,0-8.3,205,25.7,205c-34,0-4.2,205-25.7,205"/>
-<path fill="none" stroke="#FF0000" stroke-miterlimit="10" d="M894.8,292.4c21.4,0-8.3,94.3,25.7,94.3c-34,0-4.2,94.3-25.7,94.3"/>
-<text transform="matrix(1 0 0 1 702.9985 971.9785)" font-family="'RobotoMono-Italic'" font-size="18px">dt1?</text>
-<text transform="matrix(1 0 0 1 347.121 971.9785)" font-family="'RobotoMono-Italic'" font-size="18px">dt0?</text>
-<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M874,925.8c0,21.4-150-8.3-150,25.7c0-34-150-4.2-150-25.7"/>
-<path fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" d="M169.5,826.5l65.2,0c0,0,0,0,0,0c0-19.3-8.6-37.7-23.5-50.1
-	L169.5,826.5z"/>
-<path fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" d="M564.5,352.5l41.4,50.4c7.5-6.1,13.5-13.8,17.6-22.5
-	c4.1-8.7,6.3-18.2,6.3-27.9H564.5z"/>
+<path fill="none" stroke="#FF0000" stroke-miterlimit="10" d="M914.8,518.8c21.4,0-8.3,205,25.7,205c-34,0-4.2,205-25.7,205"/>
+<path fill="none" stroke="#FF0000" stroke-miterlimit="10" d="M914.8,312.4c21.4,0-8.3,94.3,25.7,94.3c-34,0-4.2,94.3-25.7,94.3"/>
+<text transform="matrix(1 0 0 1 722.9985 991.9785)" font-family="'RobotoMono-Italic'" font-size="18px">dt1?</text>
+<text transform="matrix(1 0 0 1 367.121 991.9785)" font-family="'RobotoMono-Italic'" font-size="18px">dt0?</text>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M894,945.8c0,21.4-150-8.3-150,25.7c0-34-150-4.2-150-25.7"/>
+<path fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" d="M189.5,846.5l65.2,0c0,0,0,0,0,0c0-19.3-8.6-37.7-23.5-50.1
+	L189.5,846.5z"/>
+<path fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" d="M584.5,372.5l41.4,50.4c7.5-6.1,13.5-13.8,17.6-22.5
+	c4.1-8.7,6.3-18.2,6.3-27.9H584.5z"/>
 <g>
-	<text transform="matrix(1 0 0 1 202.1252 815.3337)" font-family="'RobotoMono-Regular'" font-size="24px">α</text>
+	<text transform="matrix(1 0 0 1 222.1252 835.3337)" font-family="'RobotoMono-Regular'" font-size="24px">α</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 598.1252 378.7086)" font-family="'RobotoMono-Regular'" font-size="24px">β</text>
+	<text transform="matrix(1 0 0 1 618.1252 398.7086)" font-family="'RobotoMono-Regular'" font-size="24px">β</text>
 </g>
-<path fill="none" stroke="#FF0000" stroke-miterlimit="10" d="M169.5,915.5c131.8-37.2,316-328.3,385.5-412.9
+<path fill="none" stroke="#FF0000" stroke-miterlimit="10" d="M189.5,935.5c131.8-37.2,316-328.3,385.5-412.9
 	c73.2-89.1,189.4-201.6,328-218.2"/>
-<text transform="matrix(1 0 0 1 637.1729 396.5845)" font-family="'RobotoMono-Regular'" font-size="24px">a1 = tan(β)</text>
-<text transform="matrix(1 0 0 1 265.1915 248.0919)"><tspan x="0" y="0" font-family="'RobotoMono-Regular'" font-size="24px">a0 &gt; 0</tspan><tspan x="0" y="28.8" font-family="'RobotoMono-Regular'" font-size="24px">a1 &lt; 0</tspan></text>
-<polyline points="615,403.5 605.9,402.9 606.5,393.9 "/>
-<polyline points="212.1,785.4 211.2,776.4 220.3,775.5 "/>
-<text transform="matrix(1 0 0 1 244.7155 801.4443)" font-family="'RobotoMono-Regular'" font-size="24px">a0 = tan(α)</text>
+<text transform="matrix(1 0 0 1 657.1729 416.5845)" font-family="'RobotoMono-Regular'" font-size="24px">a1 = tan(β)</text>
+<text transform="matrix(1 0 0 1 285.1915 268.0919)"><tspan x="0" y="0" font-family="'RobotoMono-Regular'" font-size="24px">a0 &gt; 0</tspan><tspan x="0" y="28.8" font-family="'RobotoMono-Regular'" font-size="24px">a1 &lt; 0</tspan></text>
+<polyline points="635,423.5 625.9,422.9 626.5,413.9 "/>
+<polyline points="232.1,805.4 231.2,796.4 240.3,795.5 "/>
+<text transform="matrix(1 0 0 1 264.7155 821.4443)" font-family="'RobotoMono-Regular'" font-size="24px">a0 = tan(α)</text>
+<text transform="matrix(1 0 0 1 140.8267 153.6109)" font-family="'RobotoMono-Italic'" font-size="14px">velocity (+)</text>
+<text transform="matrix(1 0 0 1 854.8267 153.6109)" fill="#FF0000" font-family="'RobotoMono-Italic'" font-size="14px">distance (+)</text>
+<g>
+	<text transform="matrix(1 0 0 1 1023.2079 971.4998)" font-family="'RobotoMono-Italic'" font-size="14px">time (+)</text>
+</g>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="174,190.5 189.5,175 205,190.5 "/>
+<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="1056.1,920 1071.6,935.5 1056.1,951 "/>
+<polyline fill="none" stroke="#FF0000" stroke-miterlimit="10" points="887,190 902.5,174.5 918,190 "/>
 </svg>
