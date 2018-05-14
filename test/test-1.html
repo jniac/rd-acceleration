@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <link rel="stylesheet" href="/reset.css">
+        <link rel="stylesheet" href="/fonts/Roboto_Mono/roboto-mono.css">
+        <style media="screen">
+            body {
+                font-family: Roboto Mono, monospace;
+            }
+            .stage > * {
+                position: absolute;
+                top: 0;
+            }
+            .UI {
+                padding: 16px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="stage">
+            <canvas id="trace" width="300" height="300"></canvas>
+            <canvas id="base" width="300" height="300"></canvas>
+            <div class="UI">Stage frame #<span class="frame">0</span> time <span class="time">0</span>ms</div>
+        </div>
+        <script type="module">
+
+            import * as main from './test-1.js'
+
+            Object.assign(window, main)
+
+        </script>
+    </body>
+</html>
