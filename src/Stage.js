@@ -11,7 +11,9 @@ export let
 
 class CanvasLayer {
 
-    constructor(canvas) {
+    constructor(props) {
+
+        let { canvas } = props
 
         canvas.style.width = `${width}px`
         canvas.style.height = `${height}px`
@@ -22,9 +24,8 @@ class CanvasLayer {
         let ctx = canvas.getContext('2d')
         ctx.setTransform(ratio, 0, 0, ratio, 0, 0)
 
-        Object.assign(this, {
+        Object.assign(this, props, {
 
-            canvas,
             ctx,
 
         })
@@ -37,12 +38,29 @@ class CanvasLayer {
 
     }
 
+    update() {
+
+        let { autoClear } = this
+
+        if (autoClear)
+            this.clear()
+
+    }
+
 }
 
-export let layers = {
+export let layers = {}
 
-    base: new CanvasLayer(document.querySelector('canvas#base')),
-    trace: new CanvasLayer(document.querySelector('canvas#trace')),
+export const createLayer = props => {
+
+    let { id, canvas } = props
+
+    if (!canvas)
+        canvas = document.querySelector(`canvas#${id}`)
+
+    props = Object.assign({ canvas, autoClear: true }, props)
+
+    layers[id] = new CanvasLayer(props)
 
 }
 
@@ -61,7 +79,8 @@ function update() {
     onUpdateArray = []
     onUpdateArray = array.filter(({ callback }) => callback() !== false).concat(onUpdateArray)
 
-    layers.base.clear()
+    for (let layer of Object.values(layers))
+        layer.update()
 
     for (let mobile of Mobile.instances)
         mobile.update(deltaTime).draw(layers.base.ctx, layers.trace.ctx)
@@ -130,6 +149,8 @@ export default {
     get time() { return time },
 
     get layers() { return layers },
+
+    createLayer,
 
     requestUpdate,
     onUpdate,

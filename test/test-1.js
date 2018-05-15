@@ -10,7 +10,11 @@ export {
     Mobile,
     Point,
 
-}
+};
+
+Stage.createLayer({ id: 'base' })
+Stage.createLayer({ id: 'trace', autoClear: false })
+
 
 export let mouse = new Point().set({ x: width / 2, y: height / 2 })
 export let m1 = Stage.getDirtyMobile({ x: width / 2, y: height / 2 })
