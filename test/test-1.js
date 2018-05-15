@@ -12,7 +12,7 @@ export {
 
 };
 
-Stage.createLayer({ id: 'base' })
+Stage.createLayer({ id: 'base', autoClear: true })
 Stage.createLayer({ id: 'trace', autoClear: false })
 
 

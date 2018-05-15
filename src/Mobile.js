@@ -11,11 +11,12 @@ function resolveDt0(distance, v0, v1, a0, a1) {
 	let discriminant = b * b - 4 * a * c
 
 	let dt0 = (-b + Math.sqrt(discriminant)) / a / 2
+	let dt1 = (-b - Math.sqrt(discriminant)) / a / 2
 
 	return dt0
 }
 
-function resolveTime(distance, velocity, acceleration) {
+function resolveTime(distance, velocity, acceleration, epsilon = 1e-9) {
 
     if (acceleration === 0) {
 
@@ -32,6 +33,10 @@ function resolveTime(distance, velocity, acceleration) {
 	    c = -distance
 	*/
     let discriminant = (velocity * velocity) + 2 * acceleration * distance
+
+	// WARNING: quite weak, what value for epsilon ?
+	if (Math.abs(discriminant) < epsilon)
+		discriminant = 0
 
     if (discriminant < 0)
         return NaN
@@ -177,6 +182,8 @@ export class Mobile {
 
 			color,
 
+			onUpdateArray: [],
+
             isDirty: false,
 
         })
@@ -222,6 +229,12 @@ export class Mobile {
 
 	}
 
+	onUpdate(callback) {
+
+		this.onUpdateArray.push({ callback })
+
+	}
+
     update(dt) {
 
         let { x:px, y:py } = this.position
@@ -238,6 +251,10 @@ export class Mobile {
         this.velocity.set(vx, vy)
 
         this.isDirty = false
+
+		let array = this.onUpdateArray
+	    this.onUpdateArray = []
+	    this.onUpdateArray = array.filter(({ callback }) => callback() !== false).concat(this.onUpdateArray)
 
         return this
 
